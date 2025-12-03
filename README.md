@@ -71,12 +71,13 @@ def calcular_media_ponderada(notas, pesos):
 
 -----
 
-### 🧑‍💻 Autor
+### 🧑‍💻 Ações No Git/Github
 
   * **Warly Martins** - *Implementação Inicial*
 
 ### 🧑‍💻 Relatório
 
   * **Igor Alves** - *Responsável pelo desenvolvimento do relatório*
+
 
 
