@@ -13,7 +13,7 @@ O projeto está organizado da seguinte forma:
 ├── Q1/
 │   └── app.py        # Arquivo principal contendo a função de média ponderada.
 ├── .gitignore        # Define arquivos e pastas a serem ignorados pelo Git (ex: .env, __pycache__, .vscode).
-└── README.md         # Este arquivo.
+└── README.md        
 ```
 
 ### ⚙️ Como Executar
@@ -78,4 +78,5 @@ def calcular_media_ponderada(notas, pesos):
 ### 🧑‍💻 Relatório
 
   * **Igor Alves** - *Responsável pelo desenvolvimento do relatório*
+
 
