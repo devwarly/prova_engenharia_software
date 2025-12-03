@@ -73,4 +73,9 @@ def calcular_media_ponderada(notas, pesos):
 
 ### 🧑‍💻 Autor
 
-  * **devwarly** - *Implementação Inicial*
+  * **Warly Martins** - *Implementação Inicial*
+
+### 🧑‍💻 Relatório
+
+  * **Igor Alves** - *Responsável pelo desenvolvimento do relatório*
+
